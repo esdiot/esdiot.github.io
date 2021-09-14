@@ -1,7 +1,5 @@
 # Biao
 
-[I am](index.md)
-
 [Kernel]()
 
   * [OverView](Kernel/OverView.md)
@@ -53,8 +51,6 @@
   * [OverView](LinuxRelease/OverView.md)
   * [busybox](LinuxRelease/busybox.md)
   * [buildroot](LinuxRelease/buildroot.md)
-  * [OpenWrt](LinuxRelease/OpenWrt.md)
-  * [Yocto](LinuxRelease/Yocto.md)
   * [Ubuntu](LinuxRelease/Ubuntu.md)
   * [Android](LinuxRelease/Android.md)
   - - - -
@@ -64,18 +60,16 @@
   * [210](LinuxRelease/210.md)
   * [CM4](LinuxRelease/Raspberry.CM4.md)
   * [IMX8](LinuxRelease/IMX8_Android9_Bringup.md)
-  - - - -
-  * # Virtual Machine
-  * [QEMU_Vexpress](LinuxRelease/Vexpress.md)
-  * [QEMU_Vexpress_RT-Thread](LinuxRelease/Vexpress_RT-Thread.md)
-  * [MenuOS](LinuxRelease/LinuxRelease/menu/MenuOS.md)
-  * [RunningLinuxKernel](LinuxRelease/running/RunningLinuxKernel.md)
-
 
 [Shell]()
-
-  * [Shell](SHELL/linuxshell.md)
-  * [winbat](SHELL/winbat.md)
+  - - - -
+  * # Virtual Machine
+  * [QEMU_Vexpress](EMUL/Vexpress.md)
+  * [QEMU_Vexpress_RT-Thread](EMULVexpress_RT-Thread.md)
+  * [MenuOS](EMUL/menu/MenuOS.md)
+  * [RunningLinuxKernel](EMUL/running/RunningLinuxKernel.md)
+  * [OpenWrt](EMUL/OpenWrt.md)
+  * [Yocto](EMUL/Yocto.md)
 
 [BringUp]()
 
@@ -127,7 +121,7 @@
 
 [gimmick:ThemeChooser](Change theme)
 
-[gimmick:forkmeongithub](http://github.com/QuectelWB/myStudy/)
+[gimmick:forkmeongithub](http://github.com/esdiot/esdiot.github.io/)
 
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
