@@ -61,31 +61,21 @@
   * [CM4](LinuxRelease/Raspberry.CM4.md)
   * [IMX8](LinuxRelease/IMX8_Android9_Bringup.md)
 
-[emulators]()
-  * # Virtual Machine
+[Interesting]()
+
   * [QEMU_Vexpress](EMUL/Vexpress.md)
   * [QEMU_Vexpress_RT-Thread](EMULVexpress_RT-Thread.md)
   * [MenuOS](EMUL/menu/MenuOS.md)
   * [RunningLinuxKernel](EMUL/running/RunningLinuxKernel.md)
   * [OpenWrt](EMUL/OpenWrt.md)
   * [Yocto](EMUL/Yocto.md)
-
-[BringUp]()
-
   * [VimIDE](BringUp/VimIDE.md)
   * [WindowsTerminal](BringUp/WindowsTerminal.md)
   * [](BringUp/.md)
   * [Docker](BringUp/docker.md)
-
-[Qt]()
-
   * [Qt](Qt/Qt.md)
   * [QtUsb](Qt/QtUSB.md)
   * [FAQ](Qt/FAQs.md)
-
- 
-[Android]()
-
   * [Android](Android/AndroidTek.md)
   * [RIL](Android/RIL.md)
 
