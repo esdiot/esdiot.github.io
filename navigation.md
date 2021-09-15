@@ -1,18 +1,7 @@
 # Biao
 
-[Kernel]()
 
-  * [OverView](Kernel/OverView.md)
-  * [PCB](Kernel/PCB.md)
-  * [process](Kernel/process.md)
-  * [Sched](Kernel/Sched.md)
-  - - - -
-  * # memory
-  * [slab](Kernel/slab.md)
-  * [min_free_kbytes](Kernel/mem/min_free_kbytes.md)
-  * [malloc](Kernel/mem/malloc.md)
-
-[Driver]()
+[Linux]()
 
   * [OverView](Driver/OverView.md)
   * [WIFI&BLE](Driver/WIFI_BT.md)
@@ -29,17 +18,25 @@
   * # SDIO
   * [SDIO](Driver/SDIO/SDIO.md)
   * [mmc](Driver/SDIO/mmcSD.md)
-
-[LinuxMisc]()
-
+  - - - -
+  * # OS
   * [misc](MISC/misc.md)
   * [Signal](MISC/Signal.md)
+  * [OverView](Kernel/OverView.md)
+  * [PCB](Kernel/PCB.md)
+  * [process](Kernel/process.md)
+  * [Sched](Kernel/Sched.md)
+  - - - -
+  * # memory
+  * [slab](Kernel/slab.md)
+  * [min_free_kbytes](Kernel/mem/min_free_kbytes.md)
+  * [malloc](Kernel/mem/malloc.md)
   - - - -
   * # Advanced
   * [everyday_cmd](MISC/everydataCMD.md)
 
 
-[LinuxService]()
+[Skills]()
 
   * [DBus](DebianService/DBus.md)
   * [Supervisor](DebianService/Supervisor.md)
@@ -108,7 +105,7 @@
 
 [gimmick:theme (inverse: false)](spacelab)
 
-[gimmick:ThemeChooser](Change theme)
+[gimmick:ThemeChooser](Theme)
 
 [gimmick:forkmeongithub](http://github.com/esdiot/esdiot.github.io/)
 
