@@ -35,6 +35,33 @@
   * # Advanced
   * [everyday_cmd](MISC/everydataCMD.md)
 
+[LinuxAPI]()
+
+  * [LinuxAPI](LinuxAPI/LinuxAPI.md)
+  - - - -
+  * # interrupt
+  * [interrupt](LinuxAPI/interrupt.md)
+  - - - -
+  * # timer
+  * [timer](LinuxAPI/timer.md)
+  - - - -
+  * # synchronization
+  * [synchronization](LinuxAPI/synchronization.md)
+  - - - -
+  * # devmgmt
+  * [devmgmt](LinuxAPI/devmgmt.md)
+  - - - -
+  * # sched
+  * [sched](LinuxAPI/sched.md)
+  - - - -
+  * # process
+  * [process](LinuxAPI/process.md)
+  - - - -
+  * # kernelmodule
+  * [kernelmodule](LinuxAPI/kernelmodule.md)
+  - - - -
+  * # fs
+  * [filesys](LinuxAPI/filesys.md)
 
 [Skills]()
 

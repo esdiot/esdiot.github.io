@@ -1,7 +1,12 @@
+---
+title: Linux device mgmt
+---
+
+[LinuxAPI](https://www.xyhtml5.com/embed/linuxapi)
 
 
-__devinit
-----
+##__devinit
+
 include/linux/init.h
 
    通过module_init() 和module_exit() 函数调用的函数就需要使用__init 和__exit 宏来标记。
