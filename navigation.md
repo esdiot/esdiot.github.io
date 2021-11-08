@@ -95,7 +95,7 @@
   * [Yocto](EMUL/Yocto.md)
   * [VimIDE](BringUp/VimIDE.md)
   * [WindowsTerminal](BringUp/WindowsTerminal.md)
-  * [](BringUp/.md)
+  * [tools](BringUp/tools.md)
   * [Docker](BringUp/docker.md)
   * [Qt](Qt/Qt.md)
   * [QtUsb](Qt/QtUSB.md)
@@ -108,24 +108,14 @@
   * [HareWare](Others/Hardware.md)
   * [Something](Others/Something.md)
   * [winbat](Others/SystemV.md)
-  - - - -
-   * # Python
    * [basic](Others/Python/pybasic.md)
    * [examples](Others/Python/useful_example.md)
-  - - - -
-  * # Web
   * [myBlog](Otherss/Web/myBlog.md)
   * [Web](Otherss/Web/OverView.md)
-  - - - -
-  * # Related
   * [httpServer](Others/Web/pyHttpServer.md)
   * [mdWiki](Others/Web/mdWiki.md)
-  - - - -
-  * # myBlogs
   * [gdb编译](Others/myBlogs/2020_11_29_QEMU_gdb.md)
   * [Wine](Others/Wine.md)
-  - - - -
-  * # links
   * [NetWork](Others/links/network.md)
   * [Quectel](Others/links/quectel.md)
   * [Khadas](Others/links/KhadasDoc.md)
